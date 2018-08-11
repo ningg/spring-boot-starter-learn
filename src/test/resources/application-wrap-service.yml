@@ -1,0 +1,5 @@
+wrap:
+  service:
+    enabled: true
+    prefix: 前缀
+    suffix: 后缀
