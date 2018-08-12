@@ -14,6 +14,8 @@ Spring Boot Starter 实例
 # 1. 发布到本地
 make install
 
+# 2. 本地运行测试
+make test
 ```
 
 
